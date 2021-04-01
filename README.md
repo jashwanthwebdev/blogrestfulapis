@@ -1,6 +1,6 @@
 # Blog Application
 
-This Project is a intermediate friendly project I built using React. My key Aspects:
+This Project is a intermediate friendly project I built using Node Js. My key Aspects:
 
 ## ADMIN 
 -- Admin Can able to login with his login credientials
